@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import java.time.Duration;
 import java.util.List;
 
-public class C05_FindElemens {
+public class C05_FindElements {
     public static void main(String[] args) throws InterruptedException {
 
         ChromeOptions ops = new ChromeOptions();
