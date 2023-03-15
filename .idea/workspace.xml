@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcb98f7a-1234-45f5-9447-12aa449832fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_xpath_cssSelector/C04_CookiesGecme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_xpath_cssSelector/C05_RelativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_xpath_cssSelector/C06_MavenIlkClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +58,7 @@
       <recent name="C:\Users\fatih\IdeaProjects\FatihSelenium\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C05_RelativeLocators">
-    <configuration name="C01_Xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ders03_xpath_cssSelector.C01_Xpath" />
-      <module name="FatihSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ders03_xpath_cssSelector.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C06_MavenIlkClass">
     <configuration name="C02_XpathText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ders03_xpath_cssSelector.C02_XpathText" />
       <module name="FatihSelenium" />
@@ -124,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C06_MavenIlkClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ders03_xpath_cssSelector.C06_MavenIlkClass" />
+      <module name="FatihSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders03_xpath_cssSelector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C06_MavenIlkClass" />
         <item itemvalue="Application.C05_RelativeLocators" />
         <item itemvalue="Application.C04_CookiesGecme" />
         <item itemvalue="Application.C03_CssSelector" />
         <item itemvalue="Application.C02_XpathText" />
-        <item itemvalue="Application.C01_Xpath" />
       </list>
     </recent_temporary>
   </component>
